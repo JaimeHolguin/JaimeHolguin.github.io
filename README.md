@@ -17,5 +17,14 @@
     RIT SE Website
   </h1>
   <a href="https://www.rit.edu/study/software-engineering-bs">This is a link to the RIT SE website</a>
+  <h1>
+    What I Would Like To Learn From This Course:
+  </h1>
+  <ul>
+    <li>Being able to work on a team to complete a project with the needed skills to do so</li>
+    <li>Learning different perspectives on teamwork and tackling projects</li>
+    <li>Understanding common misconceptions about SE and common problems SE's run into</li>
+    <li>Forming better habits when it comes to studying and working on SE topics</li>
+  </ul>
 </body>
 </html>
