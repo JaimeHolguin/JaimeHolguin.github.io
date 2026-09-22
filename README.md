@@ -12,6 +12,6 @@
   <h1>
     My Favorite Food
   </h1>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHeDaVtrpohemDlkFmzNW6YIVzOK-AdOGrz6pVa1vlJg&s=10" alt="Salmon" width="500" height="200">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHeDaVtrpohemDlkFmzNW6YIVzOK-AdOGrz6pVa1vlJg&s=10" alt="Salmon" width="200" height="200">
 </body>
 </html>
